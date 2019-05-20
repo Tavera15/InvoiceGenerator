@@ -1,0 +1,16 @@
+[
+  {
+    "123 Example Address": {
+      "mName": "Example Name",
+      "mAddress": "123 Example Address",
+      "mCharge": 125.0,
+      "mInvoiceCounter": 0
+    },
+    "789 Another Address": {
+      "mName": "Another Name",
+      "mAddress": "789 Another Address",
+      "mCharge": 125.0,
+      "mInvoiceCounter": 0
+    }
+  }
+]
